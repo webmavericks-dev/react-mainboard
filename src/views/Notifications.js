@@ -69,7 +69,7 @@ function Notifications() {
             <p className="card-category">
               Handcrafted by our friend and colleague{" "}
               <a
-                href="https://github.com/EINazare"
+                href=""
                 rel="noopener noreferrer"
                 target="_blank"
               >
@@ -77,7 +77,7 @@ function Notifications() {
               </a>
               . Please checkout the{" "}
               <a
-                href="https://github.com/creativetimofficial/react-notification-alert"
+                href=""
                 rel="noopener noreferrer"
                 target="_blank"
               >
